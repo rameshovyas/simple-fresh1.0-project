@@ -1,4 +1,4 @@
-# fresh project
+# Simple Web Application using Fresh 1.0 a Full Stack Deno Framework
 
 ### Usage
 
